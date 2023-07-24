@@ -1,2 +1,2 @@
 # RXWeb
- Personal web 
+A static personal website
