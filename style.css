@@ -114,6 +114,37 @@ h1{
     bottom: 0;
 }
 
+/* projects */
+.project{
+    padding: 40px 0;
+    background: linear-gradient(rgba(141,153,174,0.9), rgba(141,153,174,0.3)),
+                url(./asset/background2.jpg)  no-repeat fixed;
+    background-size: cover;
+}
+
+.projectsWrapper{
+    margin: 0 auto;
+    padding: 0 30px;
+    max-width: 950px;
+}
+
+.projectWrapper{
+    display: block;
+    padding-bottom: 30px;
+}
+
+
+.project h3~p {
+    margin-top: 10px;
+}
+.project ul{
+    margin-top: 10px;
+}
+
+.project ul~p{
+    margin-top: 5px;
+}
+
 /* work experience */
 
 .workExperience{
